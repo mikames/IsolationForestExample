@@ -6,8 +6,7 @@ There are dozens (probably hundreds) of books dedicated to the subject of anomal
 
 Here we'll use the IsolationForest to produce at least 400 examples of anomalies for use in Amazon Fraud Detector
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://github.com/mikames/IsolationForestExample/IsolationForestExample.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://github.com/mikames/IsolationForestExample/IsolationForestExample.ipynb)
 
 
 Contents:
