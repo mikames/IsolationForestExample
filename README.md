@@ -8,7 +8,7 @@ Here we'll use the IsolationForest to produce at least 400 examples of anomalies
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mikames/IsolationForestExample/IsolationForestExample.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/IsolationForestExample.ipynb)
 
 
 Contents:
