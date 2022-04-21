@@ -6,11 +6,6 @@ There are dozens (probably hundreds) of books dedicated to the subject of anomal
 
 Here we'll use the IsolationForest to produce at least 400 examples of anomalies for use in Amazon Fraud Detector
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/mikames/IsolationForestExample/main/IsolationForestExample.ipynb)
-
-
 Contents:
 - IsolationForestExample.ipynb: this is a notebook for generating anomalies in a dataset. 
 - data/rcf_110k.csv: this is a synthetic CSV data set used to train and evaluate the the isolation forest with. 
