@@ -1,0 +1,6 @@
+numpy
+seaborn
+datetime
+matplotlib
+sklearn
+pandas==1.3.4
