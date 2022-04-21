@@ -6,6 +6,10 @@ There are dozens (probably hundreds) of books dedicated to the subject of anomal
 
 Here we'll use the IsolationForest to produce at least 400 examples of anomalies for use in Amazon Fraud Detector
 
+give it a go here:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mikames/IsolationForestExample/HEAD?labpath=IsolationForestExample.ipynb)
+
 Contents:
 - IsolationForestExample.ipynb: this is a notebook for generating anomalies in a dataset. 
 - data/rcf_110k.csv: this is a synthetic CSV data set used to train and evaluate the the isolation forest with. 
